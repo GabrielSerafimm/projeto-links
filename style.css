@@ -156,6 +156,6 @@ footer {
   --bg-url: url(./assets/bg-desktop-dark\ \(1920x1080\).jpg);
  }
 .light {
-  --bg-url: url(./assets/bg-desktop-light\ \(1920x1080\).jpg \(1920x1080\).jpg);
+  --bg-url: url(./assets/bg-desktop-light\ \(1920x1080\).jpg);
 }
  }
